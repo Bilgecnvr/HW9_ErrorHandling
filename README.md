@@ -1,1 +1,1 @@
-This assignment has been created for error handling testing.
+This assignment has been done for error handling testing.
