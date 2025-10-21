@@ -8,8 +8,4 @@ public class Calculator {
     }
     return sayi1 / sayi2;
 }
-}+-
-
-+-
-+-
-+-+-
+}
